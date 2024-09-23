@@ -1,7 +1,7 @@
 # AI bot that generates images based on your sent prompt
 
 ## About
-This is a simple AI bot that uses the Fusion brain model to generate images based on your sent
+This is a simple AI bot that uses the Fusion brain model to generate images based on your sent description
 
 ## What is used in this code
 - **Fusion Brain Model**: This is a type of AI model that is used for generating images
